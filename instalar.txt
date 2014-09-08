@@ -1,0 +1,5 @@
+1. Descargar opencv 2.4.9 de http://opencv.org/downloads.html
+
+2. Descomprimir opencv en C:\opencv\  VERIFICAR QUE ESTA BIEN COPIADO ASEGURANDOSE QUE EXISTA LA CARPETA C:\opencv\build 
+
+3. Modificar la variable de entorno (especificamente la variable de sistema ) Path  poniéndole el valor C:\opencv\build\x86\vc11\bin
