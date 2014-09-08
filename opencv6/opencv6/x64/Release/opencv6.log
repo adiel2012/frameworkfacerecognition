@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 07/09/2014 23:58:36.
+     1>Proyecto "C:\Users\Adiel\Desktop\borrar\opencv6\opencv6\opencv6.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         D:\Instalaciones\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\opencv6.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         D:\Instalaciones\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\opencv6.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /errorReport:prompt /clr:nostdlib AssemblyInfo.cpp opencv6.cpp
+         AssemblyInfo.cpp
+         opencv6.cpp
+     1>opencv6.cpp(2): fatal error C1083: No se puede abrir el archivo incluir: 'opencv2/opencv.hpp': No such file or directory
+         Generando código...
+     1>Compilación del proyecto terminada "C:\Users\Adiel\Desktop\borrar\opencv6\opencv6\opencv6.vcxproj" (Build destinos) -- ERROR.
+
+ERROR al compilar.
+
+Tiempo transcurrido 00:00:01.02
